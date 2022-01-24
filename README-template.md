@@ -32,7 +32,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-design-of-a-qr-code-card-RWxIDNTAN)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://00awaudby.github.io/00awaudby-qr-card.github.io/)
 
 ## My process
 
