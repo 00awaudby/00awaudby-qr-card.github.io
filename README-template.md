@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-design-of-a-qr-code-card-RWxIDNTAN)
+- Live Site URL: [https://00awaudby.github.io/00awaudby-qr-card.github.io/)
 
 ## My process
 
@@ -48,9 +48,9 @@ I would like to and need to continue to work on  challenges and example projects
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+- Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/00awaudby)
+
 
 
 
